@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "fbWONSIbV0PvcpWS0NVV3U+cPLaPTCaJcLZ3RcWb38VxKdnUzQLoB40dovA2O4NAgAOxqBesudAhyiapMerTGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\knowak7\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\knowak7\\.nuget\\packages\\microsoft.office.interop.excel\\12.0.4518.1014\\microsoft.office.interop.excel.12.0.4518.1014.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Office.Interop.Excel 12.0.4518.1014' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Office.Interop.Excel",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
